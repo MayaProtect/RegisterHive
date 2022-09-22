@@ -1,6 +1,6 @@
-# MayaProtect - Microservice <INSERT NAME>
+# MayaProtect - Microservice Register Hive
 
-<Microservice description>
+Register Hive is a microservice that registers a hive in the MayaProtect database. It is a part of the MayaProtect project.
 <Last build info>
 
 ## How to build
@@ -8,13 +8,13 @@
 ## Usage
 
 ## Contributors
-<firstname> <lastname> - <email>
+Peter Fontaine - contact@peterfontaine.fr
 
 ## Licence
 
 ```plaintext
-<Microservice's Name>
-Copyright (C) 2022  <name of author>
+Register Hive Microservice for MayaProtect
+Copyright (C) 2022 Peter Fontaine
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
