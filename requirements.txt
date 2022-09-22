@@ -1,0 +1,5 @@
+coverage==6.4.4
+Werkzeug==2.2.2
+pymongo~=4.2.0
+prometheus-client==0.14.1
+docker~=6.0.0
